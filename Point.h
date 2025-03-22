@@ -13,6 +13,7 @@ class Point {
 
   public:
     // Constructor
+    Point();
     Point(double xCoord, double yCoord);
 
     // Member function to calculate distance to another Point
